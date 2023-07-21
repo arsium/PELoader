@@ -13,4 +13,4 @@ Supports :
 Thx to :
 
 * [Manual Loader](https://github.com/adamhlt/Manual-DLL-Loader)
-* [PE Packet](https://bidouillesecurity.com/tutorial-writing-a-pe-packer-part-1/)
+* [PE Packer](https://bidouillesecurity.com/tutorial-writing-a-pe-packer-part-1/)
