@@ -10,6 +10,13 @@ Supports :
 * Cloak headers : steals the header of ntdll
 * x86 & x64 architecture
 
+Improvements : 
+
+* Indirect syscalls
+* Hook detection
+* ETW Patching
+* ...
+
 Thx to :
 
 * [Manual Loader](https://github.com/adamhlt/Manual-DLL-Loader)
